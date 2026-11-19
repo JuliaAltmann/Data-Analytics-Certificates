@@ -10,7 +10,7 @@ In diesem Repository dokumentiere ich meine abgeschlossenen Kurse, Weiterbildung
 - Python und Programmierung
 - SQL und Datenbanken
 - Statistik und Versuchsplanung
-- Excel und Datenverarbeitung
+- Datenverarbeitung
 - Tableau und Datenvisualisierung
 - Künstliche Intelligenz (KI)
 
