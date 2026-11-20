@@ -19,6 +19,7 @@ In diesem Repository dokumentiere ich meine abgeschlossenen Kurse, Weiterbildung
 ### Data Analytics und Statistik
 
 - [The Data Science of Experimental Design](./Experimental-Design/README.md)
+- [Statistics Foundations 1: The Basics](./Statistics/README.md)
 
 ## Ziel meiner Weiterbildung
 
